@@ -1,0 +1,59 @@
+Raspberry Pi 2
+
+places to order from:
+amazon.ca
+buyapi.ca
+canada.newark.com
+element14.com
+mcmelectronics.com
+newegg.ca
+canadarobotix.com
+
+Parts to get:
+Raspberry Pi 2 Model B (1GB)
+power supply
+battery power supply
+HDMI cable
+Case
+Wifi adapter
+16 GB microSD card
+
+Interesting packages:
+http://www.canakit.com/ - lots of packages & accessories
+http://www.canakit.com/raspberry-pi/raspberry-pi-kits
+http://www.canakit.com/raspberry-pi/raspberry-pi-cases
+http://www.canakit.com/raspberry-pi/raspberry-pi-accessories
+
+http://www.canadarobotix.com/raspberry-pi-board/1426-raspberry-pi-2-model-b-1gb - $48.99
+http://www.canadarobotix.com/robot-parts/microcontrollers/raspberry-pi-board/1491-carobot-raspberry-pi-b-2-starter-bundle - $79.99 (starter kit) on backorder
+http://www.amazon.ca/gp/product/B0096M7IJY/ref=pd_lpo_sbs_dp_ss_2?pf_rd_p=1977604502&pf_rd_s=lpo-top-stripe&pf_rd_t=201&pf_rd_i=B00AKQA0X6&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_r=08WFBXSQVFHA2MFHXV3H - $79.95
+
+
+
+Additional info:
+http://forums.redflagdeals.com/where-get-raspberry-pi-2-canada-1669083/11/
+http://www.buyapi.ca/product/raspberry-pi-2-model-b-armv7-with-1g-ram/
+http://www.buyapi.ca/pi-essentials/
+http://www.buyapi.ca/product/raspberry-pi-model-b-enclosure/
+http://www.buyapi.ca/product/low-profile-micro-usb-power-supply-3000ma-5-2v/
+
+Power:
+USB Battery Pack for Rasp Pi - 10000mAh - 2 x 5V @ 2A: http://www.adafruit.com/products/1566
+Additional power options: http://www.adafruit.com/category/44
+http://www.amazon.com/gp/product/B004P8E612/ref=olp_product_details?ie=UTF8&me=&seller=
+
+
+Wireless WiFi adapter:
+Alfa AWUSO36NH High Gain USB Wireless G / N Long-Rang WiFi Network Adapter: http://www.amazon.ca/Alfa-AWUSO36NH-Wireless-Long-Rang-Network/dp/B0035APGP6/ref=sr_1_16?s=electronics&ie=UTF8&qid=1430623433&sr=1-16&keywords=alfa+awus
+
+
+Memory:
+32GB Class 10 Micro SDHC:
+SanDisk 32GB Ultra Class 10 Micro SDHC up to 48MB/s with Adapter = $21.69: http://www.amazon.ca/SanDisk-Adapter-SDSDQUAN-032G-G4A-Newest-Version/dp/B00M55C0NS/ref=sr_1_1?ie=UTF8&qid=1430623764&sr=8-1&keywords=32GB+Class+10+Micro+SDHC
+
+
+
+Instructions:
+https://grymoire.wordpress.com/2015/03/07/setting-up-kali-1-1-0-on-the-new-raspberry-pi-2/
+http://www.instructables.com/id/MyLittlePwny-Make-a-self-powered-pentesting-box-/
+http://dnlongen.blogspot.ca/2014/09/installing-kali-linux-and-snort-on.html
