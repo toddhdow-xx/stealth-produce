@@ -57,3 +57,4 @@ Instructions:
 https://grymoire.wordpress.com/2015/03/07/setting-up-kali-1-1-0-on-the-new-raspberry-pi-2/
 http://www.instructables.com/id/MyLittlePwny-Make-a-self-powered-pentesting-box-/
 http://dnlongen.blogspot.ca/2014/09/installing-kali-linux-and-snort-on.html
+http://resources.infosecinstitute.com/pentesting-distributions-and-installer-kits-for-your-raspberry-pi/
