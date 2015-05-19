@@ -1,0 +1,9 @@
+Compiling notes on defensive resources, rough list of links to research further.
+
+* honeypot 
+	(https://www.threatstream.com/blog/create-an-army-of-raspberry-pi-honeypots-on-a-budget)
+	(http://www.geeky-gadgets.com/raspberry-pi-honeypot-network-security-device-created-by-arizona-student-04-08-2014/)
+	
+* Arpwatch/snort  (https://sites.sas.upenn.edu/kleinkeane/blog/2013/07/monitor-your-lan-raspberry-pi)
+* kali/snort on pi (http://dnlongen.blogspot.ca/2014/09/installing-kali-linux-and-snort-on.html)
+* Network monitoring node  (http://www.networkworld.com/article/2225683/cisco-subnet/raspberry-pi-as-a-network-monitoring-node.html)
