@@ -1,5 +1,14 @@
 Raspberry Pi 2
 
+The canakit.com package is available on amazon.ca for $79. We should order it from there as that'll save us $5 each (they are $85 on canakit.com).
+
+From amazon.ca:
+2 * Raspberry Pi 2 starter kit - $80 each
+2 * Alfa AWUS036NH wifi adapter - $42 each
+4 * SanDisk 32 GB microSD cards - $21 each
+
+Total order price will be approx $320 + tax.
+
 places to order from:
 amazon.ca
 buyapi.ca
@@ -58,3 +67,5 @@ https://grymoire.wordpress.com/2015/03/07/setting-up-kali-1-1-0-on-the-new-raspb
 http://www.instructables.com/id/MyLittlePwny-Make-a-self-powered-pentesting-box-/
 http://dnlongen.blogspot.ca/2014/09/installing-kali-linux-and-snort-on.html
 http://resources.infosecinstitute.com/pentesting-distributions-and-installer-kits-for-your-raspberry-pi/
+http://elinux.org/RPi_Peripherals
+http://www.wirelesshack.org/alfa-awus036nh-long-range-usb-adapter-and-raspberry-pi-compatibility.html
