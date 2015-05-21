@@ -1,0 +1,9 @@
+Some information or links on comparing the different single board computers out there people could consider, when we briefly talk about the different alternatives these can provide us the related specs/reviews for alternatives to the raspberry pi
+
+
+
+Latest article on rating the different types of SBC's.  Worth following results (http://linuxgizmos.com/rate-these-sub-200dollar-hacker-sbcs-win-one-of-20/)
+Comparison of 40 different SBC's From December 2014  (http://linuxgizmos.com/ringing-in-2015-with-40-linux-friendly-hacker-sbcs/)
+Comparison of 10 SBC's from April 2015 (http://www.intorobotics.com/compare-10-linux-single-board-computers-to-find-the-right-one-for-you/)
+USB Armory, another consideration for comparison maybe?  (http://inversepath.com/usbarmory)
+Banana PI, interesting concept as a router, but also imagine this being a smart network defence tool?  (http://www.bananapi.com/index.php/component/content/article?layout=edit&id=59)
