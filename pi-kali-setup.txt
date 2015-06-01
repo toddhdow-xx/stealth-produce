@@ -1,0 +1,17 @@
+BUILD THE KALI IMAGE ON A MICRO SD CARD:
+1. Download kali linux: https://www.offensive-security.com/kali-linux-vmware-arm-image-download/
+2. Verify the download: shasum kali<insert full filename here>
+3. Insert micro SD card into computer for imaging and determine the appropriate device path:
+> diskutil list
+4. Unmount the appropriate disk:
+> diskutil unmount /dev/disk1
+5. Use dd to image the kali file to the card:
+dd if=kali-linux-1.1.0-rpi2.img of=/dev/disk1 bs=1m
+(control+T to see progress of image creation)
+6. Eject the micro SD card
+7. Insert disk into Raspberry Pi 2, plug in peripherals and power it up. Voila!
+
+References:
+http://docs.kali.org/kali-on-arm/install-kali-linux-arm-raspberry-pi
+http://docs.kali.org/downloading/kali-linux-live-usb-install
+
